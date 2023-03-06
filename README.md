@@ -34,7 +34,7 @@ Farklı bir durum olan iki köşesi de görünmeyen bir cephenin orta kısımlar
 
 Şekil 5: Algoritma
 
-Problemi çok basit düşünerek çıkan diyagram Şekil 5 te görülmektedir. Tabi ki problemin içine girdikçe karşımıza çok daha fazla problem çıkmaktadır ve bunu giderilmeye çalışılmıştır.
+Problemi çok basit düşünerek çıkan diyagram Şekil 5 te görülmektedir. Tabi ki problemin içine girdikçe karşımıza çok daha fazla problem çıkmaktadır ve bunlar giderilmeye çalışılmıştır.
 
 MapBsic IDE .mb dosyası aşağıdaki şekildedir:
 
